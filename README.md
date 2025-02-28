@@ -1,8 +1,10 @@
 📦 Sistema de Logística - DM112
 
 Aluno: Giovani Lucas BentoDisciplina: DM112 – Cloud Computing, Programação OO, Web Services e SOA
-    Professor: Roberto Ribeiro Rocha
-Instituição: Inatel – Pós-Graduação em Desenvolvimento Mobile e Cloud Computing
+ 
+  Professor: Roberto Ribeiro Rocha
+  
+  Instituição: Inatel – Pós-Graduação em Desenvolvimento Mobile e Cloud Computing
 
 📖 Sobre o Projeto
 
